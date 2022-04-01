@@ -4,7 +4,7 @@
 	
 	<default remote="origin" sync-j="4" revision="master"/>
 	
-	<project name="gitA" path="A" />
-	<project name="gitC" path="C" />
+	<project name="gitA" path="A" revision="develop"/>
+	<project name="gitC" path="C" revision="release/1.0.0"/>
 	
 </manifest>
